@@ -27,7 +27,7 @@ I am an Electronics Engineer with expertise in Data Science, AI systems and a st
   - Reinforcement Learning
   - Japanese Language
 - I’m looking forward to collaborate on open source projects.
-- 📖 I love to read novels, 🎵 listen to music, 🏀 play basketball, and 🌴 explore nature outdoors.
+- 📖 I love to read novels, 👻🎬 watch terror movies, 🎵 listen to music, 🏀 play basketball, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="jteustaquio@pucp.pe">jteustaquio@pucp.pe</a>
 
 ## 🛠️ ***Favorite Tools***
@@ -77,17 +77,8 @@ I am an Electronics Engineer with expertise in Data Science, AI systems and a st
   
 </p>
 
-## ***Keep in touch with me*** 😊
+## 😊 ***Keep in touch with me***
 <p>
     <a href="https://www.linkedin.com/in/jorge-eustaquio-sotelo-444868171/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## ***Projects***
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
