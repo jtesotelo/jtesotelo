@@ -9,7 +9,7 @@ Hi, I'm Jorge Eustaquio!
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=388B0B&center=true&vCenter=true&width=435&lines=Creative+Electronics+Egineer+%3A);Data+Science+Master's+Student+0-0;Currently+in+Renewable+Energy+Ind.;Data+-%3E+Python+%7C+SQL+%7C+NoSQL%7C+BI;AI+-%3E+ML+%7C+DL+%7C+LLM+%7C+TL;DevOps+-%3E+Docker+%7C+venv+%7C+Airflow" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=388B0B&center=true&vCenter=true&width=435&lines=Creative+Electronics+Engineer+%3A);Data+Science+Master's+Student+0-0;Currently+in+Renewable+Energy+Ind.;Data+-%3E+Python+%7C+SQL+%7C+NoSQL%7C+BI;AI+-%3E+ML+%7C+DL+%7C+LLM+%7C+TL;DevOps+-%3E+Docker+%7C+venv+%7C+Airflow" alt="Typing SVG" /></a>
 </p>
 
 <br/>
